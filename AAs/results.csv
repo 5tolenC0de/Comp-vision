@@ -1,0 +1,440 @@
+image,ground_truth,prediction,CER_score
+test001.jpg,"The image captures a moment on a rainy day, where life's rhythm continues unabated despite the weather. The scene unfolds from inside a car, as evidenced by the rain-speckled windshield through which we view the world outside.
+
+In the foreground, three vehicles are caught in motion against the backdrop of a billboard advertising ""AMARA VILLAGE"". A white van and a black SUV lead the way on the left side of the road, their headlights cutting through the rain-soaked air. Following them is a blue car, its color muted by the overcast sky.
+
+On the right side of the road, two more vehicles - another white van and a black sedan - are seen trailing behind. Their journey mirrored on the other side of the street, they add to the sense of movement in this snapshot of life.
+
+The billboard for ""AMARA VILLAGE"" stands tall amidst this tableau of motion. It's an advertisement for a resort located 10 km away from Nagoya Station and 25 minutes by car, offering accommodations with a view of Mount Higashihara. The billboard is adorned in hues of blue and white, its message clear even under the gray sky.
+
+This image is more than just a depiction of vehicles on a rainy day; it's a slice of life captured from within a car, where every journey has its own story to tell.",test001,180.14285714285714
+test002.jpg,"The image depicts a scene on a highway. The main subject of the image is a **white Honda car**, which is parked on the side of the road. The car's license plate reads ""**ST-01 LH**"". 
+
+In front of the car, there is a **yellow traffic sign** with a black arrow pointing to the right, indicating the direction of traffic flow. To the left of the car, there is a **solar panel** mounted on a pole, likely used for powering street lights or other public utilities. 
+
+The background of the image features a clear blue sky and lush green trees, suggesting that this location might be in a suburban or rural area with good air quality. The overall scene gives an impression of a quiet day on the highway with no apparent traffic or activity around the parked car.",test002,107.42857142857143
+test003.jpg,"The image captures a bustling city street, teeming with life and activity. The road is filled with cars of various colors - white, blue, and gray, all moving in harmony towards their destinations. A large billboard stands tall on the right side of the photo, its vibrant yellow and blue hues contrasting against the clear sky. It's hard to make out the text on it from this distance, but it adds a touch of urban charm to the scene.
+
+On the left side of the photo, trees line the street, their green leaves rustling in the unseen wind. They provide a refreshing contrast to the concrete jungle around them. The perspective of the image is particularly interesting - it's taken from behind one of the cars on the road, giving us a driver's eye view of this everyday urban landscape.
+
+The sky above is clear and blue, suggesting that it might be a beautiful day in the city. Despite being an ordinary scene, there's something captivating about it - it's just another moment in time in this ever-evolving cityscape.",test003,144.0
+test004.jpg,"The image depicts a scene on a highway where a blue truck carrying gray metal beams is driving away from us. The truck has a white license plate that reads ""YU 9832 VEN"". There are several other cars visible in the background, indicating that this might be a busy road or highway. The sky above is hazy, suggesting it could be early morning or late afternoon when visibility is reduced due to atmospheric conditions.",test004,58.857142857142854
+test005.jpg,"The image depicts a scene on a road. The main subject is a **white truck** driving on the right side of the road, moving towards the left side of the frame. The truck has a distinctive red license plate that reads ""DC-03 BKN"". On its back, there's an advertisement for ""Coca Cola"" and another for ""Air Jordan"", indicating possible sponsorships or partnerships.
+
+The background provides context to the location of the truck. There are trees lining the road, suggesting a suburban or rural setting. Above, the sky is clear and blue, hinting at good weather conditions for driving.
+
+Please note that this description is based on the visible elements in the image and does not infer any additional information beyond what can be confidently determined from the image itself.",test005,109.42857142857143
+test006.jpg,"The image captures a moment on a highway, where life's journey seems to be paused for a brief while. The road, divided by a white line and bordered by a concrete barrier, stretches out into the distance, inviting travelers to continue their journey. A silver car is seen in the foreground, its metallic body gleaming under the clear blue sky. It's moving away from us, adding a sense of motion to this otherwise still scene.
+
+Further down the road, other cars can be spotted, each with their own destination and purpose. They are like tiny specks against the vastness of the highway, emphasizing the scale of our journeys compared to the world around us.
+
+On either side of the road, trees stand tall and proud, their green leaves rustling in the unseen wind. They provide a natural contrast to the man-made structures that line the highway. A bridge can be seen in the distance, its silhouette standing out against the sky. It's an architectural marvel that connects two parts of this world together.
+
+The image is taken from a low angle, which gives us a unique perspective on this everyday scene. It makes us feel as if we are part of this journey, looking down at our own path ahead. The clear blue sky above adds to the serene atmosphere, making it seem like any moment now, life will resume its usual pace and speed.
+
+In summary, this image is a snapshot of life on the road - a moment frozen in time amidst our constant motion.",test006,204.28571428571428
+test007.jpg,"The image depicts a scene on a road. The main subject of the image is a **black truck** driving on the right side of the road, moving towards the left side of the frame. The truck has a distinctive red and yellow license plate that reads ""MN-1234"". 
+
+On top of the truck, there's a large black canopy or tarp, which features a triangular warning sign with an exclamation mark in red. This could possibly indicate some sort of caution or alert related to the cargo being transported.
+
+In the background on the right side of the road, there's another vehicle - a **black car**. It appears stationary and is located further down the road compared to the truck.
+
+The setting includes trees lining both sides of the road, providing a natural backdrop to this scene. The sky above suggests it might be daytime or early evening.
+
+Overall, this image captures an everyday moment on the road with these two vehicles amidst a serene environment.",test007,133.0
+test008.jpg,"The license plate of the white car is ""JH 1234"".",test008,6.428571428571429
+test009.jpg,"The image depicts a scene on a highway under clear blue skies. The main focus of the image is two vehicles: a yellow truck and a black car. 
+
+The yellow truck, which appears to be carrying a large load in its bed, is driving away from us. Its license plate reads ""32"". It's positioned on the left side of the road, moving towards the right side of the image where it meets another vehicle.
+
+On the right side of the road, there's a black car with a white license plate that reads ""18 097"". This car is driving in the opposite direction to the truck, heading towards the left side of the image.
+
+The highway itself is lined with trees and guardrails on both sides, providing a natural border for this scene. The overall atmosphere suggests a typical day on the road with vehicles going about their journeys.",test009,114.57142857142857
+test010.jpg,"The image captures a vibrant scene on a highway under a clear blue sky. Dominating the center of the frame is a striking red double-decker bus, its bold color contrasting beautifully with the surrounding environment. The bus proudly displays a sign that reads ""Sri Lanka Tourism"", hinting at an exciting journey ahead for any tourists on board.
+
+To the left of this central figure, two yellow trucks add to the diversity of vehicles on the road. Their bright hue complements the red bus and adds depth to the scene. On the right side of the image, a gray car is seen driving away from us, its presence adding balance to the composition.
+
+The highway itself is lined with trees, their green foliage providing a natural border for this dynamic tableau. The relative positions of these vehicles and their actions suggest movement and directionality, painting a picture of travel and adventure on this sunny day.",test010,129.14285714285714
+test011.jpg,"The image captures a scene on a cobblestone street where two trucks are parked side by side, facing away from us. The first truck, painted in vibrant shades of yellow and red, bears a sign that reads ""VIA KLASSE"". Its license plate is clearly visible with the characters ""B 123456"". Adjacent to it is a green truck, its side adorned with another sign that also reads ""VIA KLASSE"", and shares the same license plate ""B 123456"" as its neighbor. The backdrop of this urban tableau is a building nestled among trees, adding a touch of nature to the cityscape.",test011,78.42857142857143
+test012.jpg,"The license plate of the black car parked at the gas station reads ""E-1834"". The car is a four-door sedan model, and it's facing towards the right side of the image. In the background, there are two other cars parked - one silver and one gray. Above them, there's a sign that says ""FOOD COURT"" in red letters.",test012,43.42857142857143
+test013.jpg,"The image captures a moment on a two-lane highway under a clear blue sky. Two cars, one black and one gray, are driving away from us, their rear ends visible as they traverse the road. The black car is positioned to our right, while the gray car is slightly ahead of it, both maintaining a safe distance from each other. 
+
+On either side of the highway, lush green trees line the sides, providing a natural canopy over the vehicles. Above them, three traffic lights hang in the sky - two are red and one is blue, possibly indicating different lanes or directions for the drivers.
+
+The license plates on both cars read ""C 1234"", hinting at their origin or perhaps just a random assignment of numbers and letters. The overall scene suggests a typical day on the road with vehicles moving smoothly under the watchful eyes of traffic lights and trees standing tall in the background.",test013,124.71428571428571
+test014.jpg,"The license plate of the car is ""SA 321"".",test014,5.285714285714286
+test015.jpg,"The license plate of the white Rush TD2 SUV is ""JH 98"".",test015,7.428571428571429
+test016.jpg,"The license plate of the white car is ""91 YT 32"".",test016,6.428571428571429
+test017.jpg,"The license plate of the white car is ""BJ-328"".",test017,6.285714285714286
+test018.jpg,"The bus is yellow and black, driving on a road under a blue sky dotted with white clouds. The words ""BUS"" are written on the side of the bus.",test018,19.714285714285715
+test019.jpg,"The image depicts a scene on a highway. There are two cars, one black and one gray, driving away from the camera. The car in the foreground is black and has a license plate that reads ""806"". The car in the background is gray and also has a license plate with the letters ""MTA"". 
+
+The road they are on appears to be wet, possibly due to recent rain. On either side of the highway, there are trees providing a green canopy over the cars. Above them, the sky is blue with a few clouds scattered across it. 
+
+In addition to the two main vehicles, there is also a sign visible in the background that reads ""MTA"". The precise location or significance of this sign isn't clear from the image alone.",test019,98.14285714285714
+test020.jpg,"The image depicts a scene on a highway:
+
+- There are **two vehicles** traveling on the road, one of which has a large red container attached to it. The vehicle with the red container is located on the left side of the photo and appears to be moving away from us.
+- On the right side of the photo, there's another vehicle that seems to be approaching us. This vehicle also has a license plate that reads ""P 358"".
+- In addition to these vehicles, there are **two traffic signs** visible in the background on the left side of the photo. One sign indicates a speed limit of 60 km/h and another shows a distance of 120 m ahead.
+- The sky above is gray and overcast, suggesting that it might be an overcast day or possibly raining.
+
+This description includes all visible details in the image based on what can be confidently determined from it.",test020,118.71428571428571
+test021.jpg,"The image captures a moment on a highway, where three vehicles are seen from behind. The first vehicle is a black car, distinguished by its license plate that reads ""BJ12"". Following closely behind the black car is a silver SUV, which also has a license plate with the characters ""BJ12"". Bringing up the rear of this convoy is a green truck, proudly displaying an advertisement for ""KFC"" on its side. The vehicles are all in motion, suggesting they are traveling at a brisk pace along the highway. In the background, there's a solitary tree and power lines stretching across the scene, adding to the sense of depth and distance in the image.",test021,91.0
+test022.jpg,"The image captures a bustling street scene under a clear blue sky. The main focus is on two vehicles: a white Toyota SUV and a yellow taxi, both navigating their way through the traffic. The license plates of these cars are clearly visible - ""JM 1652 WU"" for the Toyota and ""JM 1652 WU"" for the taxi, suggesting they might be from the same location or at least share a similar registration number.
+
+The street is lined with trees providing some shade to the vehicles below. A green sign reading ""Wangfujing Street"" hangs prominently in the scene, indicating that this could be a well-known area or landmark. The perspective of the image suggests it was taken from within one of these cars, giving us a driver's eye view of the busy street.
+
+The overall atmosphere is dynamic and full of life, typical of city streets around the world. It's a snapshot of everyday urban life, with vehicles moving along their routes and signs marking out the territory.",test022,135.0
+test023.jpg,"The image captures a tranquil night scene on a road. A black car, possibly a Honda model, is driving away from us along the right side of the road. The car's taillights are glowing red, indicating its motion. The license plate of the car reads ""G 13 DP"". 
+
+The background reveals that this scene takes place at night. A street lamp stands tall in the distance, casting a warm glow on the road ahead. Trees line both sides of the road, their silhouettes adding to the serene ambiance of the scene. The car's headlights are off, suggesting it's moving away from us and further down the road.
+
+The image does not contain any text or other discernible details. It's a simple yet captivating snapshot of life on the road at night.",test023,103.0
+test024.jpg,"The license plate of the white car is ""N-512"".",test024,6.0
+test025.jpg,"The image captures a bustling city street, teeming with life and activity. The road is filled with vehicles of various types - three motorcycles, one car, and two trucks, all seemingly in motion. The buildings that line the street are predominantly white and gray, their uniformity broken only by occasional splashes of red and blue.
+
+The sky above is a clear blue, providing a stark contrast to the urban landscape below. Trees can be seen interspersed among the buildings, adding a touch of nature to the concrete jungle. Street signs are visible in various locations along the road, guiding the flow of traffic and pedestrians alike.
+
+The perspective of the image is particularly interesting - it's taken from within a car on this busy street, giving us a driver's eye view of the scene unfolding before us. It's as if we're right there in the midst of it all, navigating our way through the city's hustle and bustle.",test025,130.85714285714286
+test026.jpg,"The image depicts a bustling street scene, captured from the perspective of another vehicle on the road. The main focus is a black pickup truck, which has ""A BRAK"" written on its license plate and a yellow logo adorning its rear window. A red helmet rests in the bed of the truck, perhaps belonging to one of the occupants.
+
+In front of this truck are two motorcycles, each carrying a passenger. The first motorcycle is blue with a white helmet on it, while the second one is green and also has a white helmet attached to it. 
+
+Behind these vehicles, there's another red car parked. A person wearing a red helmet can be seen standing next to this car. The background of the image reveals more about the location - there are trees providing some shade and buildings indicating an urban setting.",test026,112.71428571428571
+test027.jpg,"The image captures a scene of urban life, where three cars are parked under the shelter of a concrete garage. The garage, painted white and topped with a gray roof, stands as a stark contrast against the vibrant blue sky above. A yellow pole on the right side of the garage adds a pop of color to the otherwise monochrome structure.
+
+The cars parked inside are all black - one is a Mercedes-Benz, another a Volkswagen, and the third an Opel. Their sleek forms hint at their modern design and luxurious interiors. The concrete floor beneath them is clean and unmarked, reflecting the well-maintained nature of this urban dwelling.
+
+The perspective of the image suggests it was taken from across the street, giving a comprehensive view of the garage and its contents. The relative positions of the cars indicate they are parked in an orderly fashion, adhering to the rules of parking etiquette.
+
+Overall, this image paints a picture of everyday life in an urban setting - where modern vehicles find their rest under the shelter of concrete structures against the backdrop of clear skies.",test027,154.42857142857142
+test028.jpg,"The image captures a serene day on a tree-lined street, where four cars are parked neatly by the curb. The first car from the left is a white Toyota Fortuner, its license plate reading ""MH 3158"". Just behind it, there's a silver Honda CR-V, followed closely by another white Toyota Fortuner. The last car in this lineup is a black Hyundai Creta, adding to the diversity of makes and models present.
+
+The cars are parked parallel to each other, maintaining an orderly arrangement along the sidewalk. Above them, the sky is a clear blue with only a few clouds scattered across it, suggesting a bright and sunny day. The trees lining the street provide ample shade for these vehicles, their leaves rustling gently in the breeze.
+
+The image exudes an air of tranquility and orderliness, characteristic of a well-maintained urban neighborhood. It's as if time has paused for a moment, allowing us to appreciate this everyday scene with fresh eyes.",test028,134.0
+test029.jpg,"The image captures a scene from a parking lot, where four black cars are neatly parked under a covered area. The cars are arranged in two rows of two, all facing the same direction as if ready to move out at any moment. A white arrow on the ground points towards these cars, perhaps indicating their reserved status or special importance.
+
+Above them, a red and white sign hangs prominently. It reads ""KARANG BELONG KANAN"" in bold letters against a stark white background. The sign's message is clear and direct - this area belongs to Kanan alone. Adding to the seriousness of its command are two no parking signs, their red color standing out against the otherwise muted tones of the scene.
+
+The ground beneath all these elements is made of concrete, providing a solid base for the cars and signage. In the background, there's a yellow pillar that adds a pop of color to the otherwise monochrome setting. The pillar stands tall and solitary, perhaps serving as a support structure within this parking lot.
+
+Overall, the image paints a picture of an orderly space where rules are clearly communicated through both text and signage.",test029,161.0
+test030.jpg,"The license plate number of the truck in the image is ""13"".",test030,7.857142857142857
+test031.jpg,"The image captures a bustling city street, teeming with life and activity. Dominating the foreground are two cars, one silver and the other white, both parked on the side of the road. The silver car is closer to us, its sleek body gleaming under the sunlight, while the white car stands a bit further away, adding depth to the scene.
+
+The street itself is lined with trees that provide a touch of nature amidst the urban landscape. Power lines crisscross above, forming an intricate web against the clear blue sky. The buildings in the background rise high, their windows reflecting the sunlight and adding texture to the cityscape.
+
+On the left side of the image, there's a person on a motorbike, ready to weave through traffic or perhaps just enjoying a leisurely ride. On the right side, another person is seen walking, possibly going about their day-to-day routine.
+
+The colors in this image are vibrant and varied - from the cool blue of the sky to the warm hues of the buildings and cars. It's a snapshot of city life, full of movement and color.",test031,149.71428571428572
+test032.jpg,"The image captures a bustling street scene under a clear blue sky. Dominating the foreground are two cars, one white and one gray, parked side by side on the right side of the road. The white car is positioned slightly ahead of the gray car, both facing away from us. 
+
+On the left side of the road, there's a truck with a trailer attached to it. It's also facing away from us but appears larger due to its extended length. 
+
+A green street sign reading ""Jalan Tengku Ampuan Jemaah"" is visible in the background, indicating that this could be a Malaysian locale. The sign is mounted on a pole and stands out against the blue sky.
+
+In addition to these vehicles, there are several other cars parked further down the road, adding to the busy atmosphere of the scene. 
+
+The relative positions of the objects suggest an organized traffic flow with clear demarcations for different types of vehicles. The white car and gray car's parallel parking indicates a well-maintained road system.",test032,139.71428571428572
+test033.jpg,"The image captures a bustling city street, teeming with life and activity. The road is filled with vehicles of various types - cars, motorcycles, and trucks, all moving in harmony towards their destinations. The buildings that line the street are predominantly white and gray, standing tall against the backdrop of a clear blue sky.
+
+In the distance, a large building looms over the scene. Its unique architecture is highlighted by a circular tower at its top, adding an element of grandeur to the cityscape. The trees that dot the street add a touch of greenery amidst the concrete jungle.
+
+The perspective of the image suggests it was taken from within one of the vehicles on the road, giving viewers a sense of being part of this dynamic urban scene. The colors in the photo are vibrant and varied - from the cool blues of the sky to the warm grays of the buildings, creating a visually appealing contrast.
+
+Overall, this image paints a picture of a lively city street, bustling with activity and full of life.",test033,144.14285714285714
+test034.jpg,"The image captures a bustling city street, teeming with life and activity. The road is filled with cars of various colors, including silver, black, and white, all moving in harmony under the watchful eyes of traffic lights that punctuate the scene at regular intervals. A few motorcycles add to the diversity of vehicles on the street.
+
+The buildings lining the street are a mix of architectural styles - some with balconies offering a bird's eye view of the city, others adorned with satellite dishes that hint at modern technology. The sky above is a clear blue canvas, providing a serene backdrop to the urban landscape below.
+
+The trees lining the street are in full bloom, their green leaves adding a touch of nature's vibrancy to the concrete jungle. Their presence softens the city's hard edges and brings a sense of calm amidst the hustle and bustle.
+
+In summary, this image is a snapshot of urban life - busy yet orderly, modern yet rooted in nature.",test034,136.42857142857142
+test035.jpg,"The white car is parked on the street, and a man is standing next to it. The license plate of the car reads ""2851"". There are also two motorcycles visible in the scene. In the background, there's a yellow truck with a crane attached to its back. A red traffic sign can be seen on the left side of the image.",test035,43.142857142857146
+test036.jpg,"The image captures a scene inside an indoor parking garage, bathed in soft light that reflects off the concrete floor and walls. Dominating the left side of the frame are two black cars, their sleek forms contrasting against the gray pillar they're parked next to. The license plates on these vehicles read ""E 123 LV"" and ""BMW"", hinting at their make and model.
+
+On the right side of the image, a red car stands out with its vibrant color. It's parked in front of another gray pillar, which bears the number ""LG 4A"". The license plate on this vehicle reads ""BMW"", matching one of the black cars on the opposite side.
+
+The relative positions of these vehicles suggest a well-organized parking system. Despite being indoors and surrounded by concrete walls and pillars, there's an order to their arrangement that speaks volumes about the efficiency of this space.",test036,122.28571428571429
+test037.jpg,"The image captures a bustling city street, teeming with life and activity. The road is filled with cars of various colors including black, white, and silver, all moving in harmony under the watchful eyes of traffic lights that stand tall on poles at regular intervals. The buildings lining the street are painted in shades of blue and gray, their windows reflecting the clear blue sky above. Trees dot the landscape, adding a touch of green to the urban setting. Power lines crisscross above, forming an intricate web against the backdrop of the sky. The perspective is from ground level, giving a sense of being right in the midst of it all. The license plate on one of the cars reads ""L 1784 W"", hinting at its origin or perhaps its destination.",test037,106.14285714285714
+test038.jpg,"The image captures a scene inside an underground parking garage, bathed in the soft glow of overhead lights reflecting off the concrete floor and walls. Two cars are parked side by side, their colors contrasting against the industrial backdrop. The car on the left is a sleek black Hyundai, its glossy surface hinting at a well-maintained exterior. Its license plate reads ""HYUNDAI 2013"", perhaps indicating the year of manufacture or model name.
+
+Beside it, parked in the same spot, is a white Toyota with a contrasting black roof. The license plate on this car reads ""TOYOTA 1987"", which could be referring to its production year or another aspect related to the vehicle's identity. Both cars are neatly aligned within their respective parking spaces, marked by crisp white lines that stand out against the gray concrete floor.
+
+The garage itself is structured and orderly, with a red pipe running along the top of one wall adding a dash of color to the otherwise monochrome setting. The relative positions of the cars suggest they are parked parallel to each other, maintaining an equal distance from both walls. This image paints a picture of everyday life in urban settings where such parking garages serve as common sights.",test038,175.0
+test039.jpg,"The image captures a bustling city street at night, where the glow of traffic lights and car headlights illuminate the scene. Dominating the foreground are two cars, one black and one silver, both stationary at an intersection. The black car is positioned on the left side of the frame, while the silver car occupies the right side. 
+
+The license plates of these vehicles read ""L W 985"" and ""W V 985"", respectively. Above them, a traffic light glows green, signaling for movement. In contrast to this, on the left side of the image, a no-entry sign stands out with its red color and white border.
+
+The background is a blur of city life - trees lining the street, buildings standing tall, and other cars moving in the distance. The entire scene paints a picture of urban nightlife, filled with movement and activity.",test039,115.71428571428571
+test040.jpg,"```sql
+SELECT * FROM cars WHERE color = 'white' AND make = 'Honda';
+```",test040,9.857142857142858
+test041.jpg,"The image captures a serene night scene on a street. The main subject of the photo is a **black car** parked by the sidewalk, its headlights piercing through the darkness and casting an ethereal glow that illuminates the surroundings. The car's license plate reads ""**B 1234**"".
+
+The street itself is lined with trees, their silhouettes standing tall against the night sky. A fence runs parallel to the sidewalk where the car is parked. In the distance, a building can be seen, its details obscured by the darkness.
+
+Above it all, the sky is a deep shade of **dark blue**, punctuated by the faint glimmer of stars twinkling in the night. The overall atmosphere is one of tranquility and quietude, as if time itself has paused to admire this nocturnal tableau.",test041,107.71428571428571
+test042.jpg,"The image captures a bustling city street at night, illuminated by the glow of streetlights and neon signs. The perspective is from within a car, providing a driver's eye view of the scene. Dominating the center of the frame is a large billboard with a blue background and white text, advertising an ""Electric Car"" and displaying the number ""12"". 
+
+On either side of this central billboard are two red traffic lights, standing like sentinels amidst the urban landscape. To the left of these lights, there's a cyclist in motion, adding to the dynamic nature of the scene. On the right, another car is visible, its presence contributing to the overall sense of movement and activity.
+
+The sky above is dark, suggesting it's late in the evening or night. Despite this, the city is alive with light and activity, painting a picture of urban life that is both vibrant and energetic.",test042,124.71428571428571
+test043.jpg,"The image captures a scene on a sunny day, where two cars are parked side by side in a parking lot. The car on the left is a silver hatchback, while the one on the right is a vibrant red sedan. Both vehicles are stationary and appear to be waiting for their owners.
+
+The parking lot itself is situated next to a building that has a sign reading ""Banco"". This suggests that it might be a bank or a financial institution nearby. Above, power lines crisscross against the clear blue sky, adding an urban touch to the scene.
+
+In the background, trees can be seen, providing a touch of nature amidst the concrete surroundings. The contrast between the natural and man-made elements adds depth to the image.
+
+Overall, this image paints a picture of everyday life in an urban setting, where work, rest, and nature coexist.",test043,115.85714285714286
+test044.jpg,"The image captures a bustling city street at night, illuminated by the glow of traffic lights and street signs. The perspective is from within a car, providing a driver's eye view of the scene. Dominating the center of the frame is a white Toyota Prius, its license plate reading ""D 847 KF"". It's in motion, driving away from us on the right side of the road.
+
+To the left of the Prius, there's another car - a black SUV with a license plate that reads ""J 123456"". The background is filled with trees and street signs, adding depth to the scene. Above it all, a green traffic light hangs in the air, casting its glow onto the road below.
+
+The image paints a vivid picture of urban life - cars moving along their paths, under the watchful eyes of traffic lights and street signs. It's a snapshot of a moment in time on a busy city street at night.",test044,120.0
+test045.jpg,"The image captures a bustling night scene on a city street, dominated by a black Toyota car that stands out against the backdrop of other vehicles and pedestrians. The car is parked at an angle, facing away from us, giving us a clear view of its rear end. A red brake light glows brightly, signaling its stationary state amidst the movement around it.
+
+The license plate of the Toyota reads ""S 1347 LJ"", perhaps indicating its unique identity in this urban landscape. The car is not alone; other vehicles share the road with it, their headlights adding to the vibrant night-time atmosphere. Pedestrians can be seen as well, contributing to the dynamic energy of the scene.
+
+The background is a blur of lights and shapes, indicative of trees and buildings that make up this cityscape. The darkness of the night is punctuated by these artificial sources of light, creating an interesting contrast between nature's quietude and humanity's ceaseless activity. Despite the lack of sharp focus on these background elements, they provide context to the scene, hinting at a location that is both residential and commercial.
+
+Overall, this image paints a vivid picture of urban life - busy yet orderly, chaotic yet structured. It's a snapshot of a moment in time in a city that never sleeps.",test045,182.42857142857142
+test046.jpg,"The image depicts a scene on a city street at night. There are three cars parked along the curb, each facing a different direction. The first car, painted black and bearing the license plate ""T 1420 AMB"", is positioned to the left of the frame. It's followed by another black car with the license plate ""L 7869 BMV"". The third car, also black, has a distinctive white stripe on its side and the license plate reads ""B 1420 AMB"".
+
+The cars are parked in front of a building that features a blue awning. On this awning, there's an advertisement for a pizza restaurant. The streetlights cast their glow onto the scene, illuminating the cars and the signage on the building. The overall atmosphere suggests it might be late evening or night time in this urban setting.",test046,108.57142857142857
+test047.jpg,"The license plate of the silver car is ""358"".",test047,6.0
+test048.jpg,"The license plate of the black car is ""WX 1839"".",test048,6.285714285714286
+test049.jpg,"The motorcyclist, donned in a vibrant yellow shirt and a protective red helmet, is astride a striking red scooter. The rider appears to be in motion, adding dynamism to the scene. In contrast, three cars - one silver, one black, and another blue - are stationary on the street, their stillness providing a counterpoint to the motorcyclist's movement.
+
+The backdrop of this urban tableau is a row of trees lining the street, their green foliage offering a touch of nature amidst the concrete surroundings. A signpost stands tall among them, bearing an inscription that reads ""APACY 1975"", perhaps indicating some historical or cultural significance to the location.
+
+The image captures a moment in time on this city street - where human activity and urban elements coexist harmoniously under the watchful eyes of nature's silent sentinels.",test049,119.14285714285714
+test050.jpg,The license plate of the white car is not visible in the image.,test050,8.571428571428571
+test051.jpg,"The image depicts a scene on a city street at night. The main focus is a **black Honda CR-V** parked on the side of the road. The car's license plate reads ""B08 BFW"". In front of the car, there are two individuals - one wearing a blue shirt and the other in gray. 
+
+Behind the car, there is another vehicle, this one white with red taillights. A green truck can also be seen further back on the road. The street itself is lined with trees and power lines, creating an urban nightscape. 
+
+The overall scene suggests a quiet city evening with people going about their business or perhaps taking a break from their journey.",test051,88.0
+test052.jpg,"The image captures a scene on a city street at night, where four motorcycles are parked in a neat row against a tree and a building. The first two motorcycles from the left are black, while the last two are red. Each motorcycle has its own unique features - one sports a blue helmet, another is adorned with stickers on its side, and yet another stands out with a license plate that reads ""W B 532"".
+
+In the background, there's a sign for a restaurant named ""PANAMA RICHARD"", possibly indicating a place where people might gather after their ride. The street is illuminated by streetlights and car headlights, casting an ambient glow on the scene. Above it all, the sky is dark, suggesting that it's late in the evening or night.
+
+The image also contains some text - ""W B 532"", which could be related to one of the motorcycles or perhaps provide information about a location or event not fully visible in the frame. The overall scene paints a picture of urban life, with elements like parked motorcycles and restaurant signs hinting at stories waiting to unfold.",test052,150.85714285714286
+test053.jpg,"The license plate of the car reads ""N-ZONE ALPHA"".",test053,6.714285714285714
+test054.jpg,"The image captures a bustling street scene under a clear blue sky dotted with fluffy white clouds. The road, slick from recent rain, reflects the vibrant colors of the surroundings. On either side of the street, lush green trees provide a canopy over the parked cars and buildings that line the road.
+
+In the foreground, two cars are prominently visible - one white sedan and another gray SUV. They're stationary, perhaps waiting for their turn to join the flow of traffic or maybe they've just pulled over at a red light. Speaking of which, there's a red stop sign on the right side of the image, standing as a silent sentinel ensuring safety.
+
+Further down the road, more cars can be seen parked neatly by the curb. They add to the urban charm of this everyday scene. On the left side of the image, buildings rise up, their windows reflecting the bright daylight. Among them is a sign for Norton - perhaps it's a local business or maybe it's just another building with an interesting name.
+
+Overall, this image paints a picture of a typical day in a city where life moves at its own pace and every element has its place.",test054,159.71428571428572
+test055.jpg,"The license plate of the car is ""JH12 MZ"".",test055,5.571428571428571
+test056.jpg,"The image depicts a scene on a city street. There are three cars parked along the side of the road, each with its own distinct color and model. The first car is silver and appears to be a hatchback. The second car is black and seems to be an SUV. The third car is gray and looks like a sedan. 
+
+In front of these cars, there's a blue truck parked on the street. Its color stands out against the other vehicles. 
+
+The background of the image features a tall building with a sign that reads ""KFC"". This suggests that the location could be near a fast food restaurant or possibly inside shopping complex where KFC is located. 
+
+A blue crane can also be seen in the background, indicating some construction work might be going on nearby. 
+
+The sky above is cloudy and gray, suggesting an overcast day. The trees surrounding the area are lush green, adding a touch of nature to this urban setting.",test056,126.85714285714286
+test057.jpg,"The red car is a **Toyota Corolla** and it's parked on the side of the road. The license plate reads ""N M SPS N"". The silver car is also a **Toyota Corolla**, but its color is not specified in the image description. It's parked next to the red car. There are several people walking on the street and riding motorbikes, adding life to the scene. In the background, there's a tree providing some shade over the road. The overall atmosphere suggests it might be a busy day in this area.",test057,68.42857142857143
+test058.jpg,"The image depicts a bustling city street scene. At the forefront, there's a motorcyclist wearing a green helmet and a black jacket emblazoned with the word ""go-part"". The rider is in motion on a white scooter, navigating through the traffic.
+
+Behind him, several cars are visible, including a red car and a white truck, all seemingly stuck in the flow of traffic. Above them, power lines crisscross against an overcast sky, adding to the urban atmosphere.
+
+On either side of the street, trees line the road, providing some natural contrast to the concrete surroundings. In the distance, a large tree stands out prominently.
+
+The image captures everyday life in a busy city, with vehicles moving along their routes and nature subtly present amidst urban development.",test058,108.71428571428571
+test059.jpg,"The image captures a scene on a road where two trucks are parked side by side. The first truck, painted white and adorned with red stripes, bears the registration ""M N XZC"". It is positioned in front of a large orange container that has been securely fastened to it using straps. 
+
+The second truck, also white but distinguished by blue stripes on its side, displays the registration ""HJ 3718"". This truck is parked behind the first one and appears slightly smaller in comparison. Both trucks are stationary with their engines off, suggesting a pause in their journey or perhaps an end to it.
+
+The backdrop of this scene is a cloudy sky that casts a soft light over the area. In the distance, you can see buildings lining the road, adding depth and context to the setting. The image as a whole paints a picture of a typical day in the life of these trucks on their respective routes.",test059,125.57142857142857
+test060.jpg,"The image depicts a scene on a city street. The main focus is a **white Toyota Fortuner** car, which is driving towards the camera on the right side of the road. The car's license plate reads ""HB-1234"". 
+
+In addition to the Toyota, there are other cars present in the scene. A **black Honda Civic** and a **blue Hyundai Atos** can be seen as well. 
+
+The setting appears to be an urban area with buildings visible in the background. There's also a sign for ""Hong Kong Tourism"" on one of these structures, suggesting that this might be located near or related to tourist attractions.
+
+Overall, it seems like a typical day in a bustling city with various vehicles navigating through the streets.",test060,98.28571428571429
+test061.jpg,"The image depicts a scene on a highway where two cars are driving away from the camera, and a truck is following behind them. The car on the left is silver and has ""SICK"" written on its side in white letters. The car on the right is black and also has ""SICK"" written on it, but this time in red letters. The truck that's following them is blue and has a large pile of wood strapped to its back. In the background, there are trees and power lines visible.",test061,64.28571428571429
+test062.jpg,"The image depicts a scene on a highway:
+
+1. There are two vehicles, one of which is a **white truck** and the other is a **red van**. The white truck has a trailer attached to it. Both vehicles appear to be in motion, driving away from the camera's perspective.
+2. The red van displays an interesting detail - its rear window features graffiti on it.
+3. In addition to these two vehicles, there is another car present in the scene, also moving in the same direction as the white truck and red van.
+4. The background of the image reveals a highway setting with trees lining both sides of the road. Beyond this natural backdrop, there are buildings visible in the distance.
+5. Above all these elements, the sky is painted in shades of blue, suggesting that it might be a clear day.
+
+This description provides an overview of what can be confidently determined from the image based on its content.",test062,127.0
+test063.jpg,"The image captures a moment on a highway, where a white SUV is making its way towards us. The car's license plate reads ""1764"", and it proudly displays a California state emblem on its back, hinting at its origin or destination. The road beneath the vehicle is gray, marked with crisp white lines that guide the path of travelers like this SUV.
+
+On either side of the highway, nature makes its presence known. Trees and bushes line the sides, their green hues contrasting with the gray of the road. Above it all, a clear blue sky stretches out, devoid of any clouds that might suggest an impending change in weather.
+
+The perspective of the image is particularly striking - it's as if we're on the highway ourselves, watching this white SUV drive by. The composition of the image places us right in the scene, making it feel like a snapshot of life on the road.",test063,122.42857142857143
+test064.jpg,"The image depicts a scene on a highway. The main subject of the image is a **white pickup truck** with a **black trailer** attached to it, driving on the right side of the road. The license plate of the truck reads ""**KL-1234**"". 
+
+The background of the image reveals that there are other vehicles present as well, including cars and a bus. These vehicles are also traveling on the highway, indicating that this is a busy route.
+
+In addition to the vehicles, there are trees visible in the background, suggesting that the highway is located near some greenery or possibly a forested area. The sky above is blue with a few clouds scattered across it, suggesting fair weather conditions at the time the photo was taken.
+
+Overall, this image captures a moment of everyday life on a busy highway under clear skies.",test064,115.14285714285714
+test065.jpg,"The image captures a moment on a highway, where two cars are seen driving away from us. The car closest to us is silver and it's moving towards the right side of the frame. A little further down the road, there's another car, this one black, also heading in the same direction.
+
+The highway itself is divided by a white line that runs through its center, guiding the vehicles on their journey. On either side of the road, you can see trees standing tall and power lines stretching out into the distance.
+
+Above them all, the sky is a clear blue with just a few clouds scattered here and there. The overall scene suggests a peaceful day on the highway under a serene sky.",test065,95.14285714285714
+test066.jpg,"The image captures a moment on a highway, where two cars are driving away from us. The car closest to us is silver and has ""Honda Odyssey"" written on its side. Its license plate reads ""S-192 Y"". A little further back, there's another car which appears to be black in color. 
+
+The highway they're traveling on seems to be elevated as it curves away into the distance. The sky above is a clear blue with some clouds scattered across it. In the background, you can see trees and buildings, adding depth to the scene. It's a typical day on the road, captured in this single frame.",test066,81.71428571428571
+test067.jpg,"The image captures a moment on a two-lane highway, where three cars are seen driving away from us. The car on the left is a black Toyota Camry, followed by a silver Honda CR-V in the middle, and finally, a black Suzuki Jimny on the right. They are all moving towards the horizon, which is lined with trees under a clear blue sky. Above them, power lines stretch across the scene, adding to the depth of the image. The license plates of the cars are not visible in this shot.",test067,67.14285714285714
+test068.jpg,"The license plates of the two cars are:
+
+1. Black car: E-203 UJE
+2. Silver car: D-2568 GSX",test068,11.857142857142858
+test069.jpg,"The image depicts a scene on a highway. The main focus is a **blue and white car** that is driving towards us. This car has a sign on its roof that reads ""**Coca Cola**"" and another sign on the back that says ""**E-ZPass**"". The license plate of this car is clearly visible, displaying the numbers ""**123456**"".
+
+In addition to the blue and white car, there is a **black SUV** in the background. This vehicle appears to be following behind the blue and white car on the highway.
+
+The sky above is clear and blue, suggesting good weather conditions for driving. In the distance, you can see power lines stretching across the horizon, indicating that this scene takes place near an electrical infrastructure.",test069,100.14285714285714
+test070.jpg,"The image depicts a scene on a highway where two cars are driving away from the camera. The car on the left is white and has ""Civic"" written on its side, while the car on the right is also white but has ""Honda"" written on it. Both cars have license plates that read ""JA01"". In the background, there's a tall pole with a camera mounted on top of it, presumably for traffic monitoring or security purposes. The sky above is blue and dotted with clouds, creating a serene backdrop to this everyday scene.",test070,70.85714285714286
+test071.jpg,"The license plate of the black truck is ""N-35 A"".",test071,6.571428571428571
+test072.jpg,"The license plate of the black car is ""4A 0918"".",test072,6.285714285714286
+test073.jpg,"The image depicts a bustling street scene. The main focus is on two cars, one white and one black, parked side by side on the right side of the road. The white car has a distinctive red stripe running along its side, while the black car sports a silver stripe. 
+
+A motorcyclist is captured in motion, riding past these parked cars, adding a dynamic element to the scene. On the left side of the image, there's a building with a sign that reads ""KFC"", indicating it might be a restaurant or food establishment.
+
+The sky above is clear and blue, suggesting good weather conditions. The overall atmosphere of the image conveys an everyday urban setting.",test073,92.28571428571429
+test074.jpg,"The license plate of the white van is ""28-34"". The sign above the restaurant reads ""Sri Surya Restaurant"" and offers a menu for lunch and dinner. There are two people on the motorcycle, one in front and one behind. A man wearing a red helmet is riding the motorcycle.",test074,37.57142857142857
+test075.jpg,The license plate of the red car is E-132 FE.,test075,6.0
+test076.jpg,"The image captures a lively street scene under a clear blue sky. Dominating the foreground are two motorcycles, one black and the other red, parked on the side of the road. A white car is also present in the background, adding to the urban atmosphere.
+
+Two individuals are seen riding these vehicles - a person on a silver scooter with a yellow helmet, and another person on a black motorcycle with a red helmet. Their presence brings life to the scene, suggesting movement and activity.
+
+The street is lined with buildings that add depth to the image. A large billboard stands out prominently in the background, while other smaller structures can be seen further back. The relative positions of these elements create a sense of perspective and depth in the image.
+
+Overall, this image paints a vivid picture of an active street scene with various elements contributing to its dynamic character.",test076,127.28571428571429
+test077.jpg,"The license plate of the black truck is ""JH1234"".",test077,6.571428571428571
+test078.jpg,"The license plate of the black car is ""F 214 CM"".",test078,6.571428571428571
+test079.jpg,"The image depicts a scene on a highway under construction. The main focus of the image is a white car, which has been driving past several orange traffic cones and barrels that are placed along its path. The license plate of this car reads ""B1234"". 
+
+In addition to the white car, there are two other vehicles present in the scene - a gray truck and a black SUV. Both these vehicles appear to be following behind the white car on the same highway.
+
+The background of the image reveals that this is not just any ordinary road. It's a highway under construction with several cranes visible, indicating ongoing work in the area. The sky above is clear and blue, suggesting it might be a bright day.
+
+Overall, the image captures a moment of everyday life amidst infrastructure development.",test079,111.57142857142857
+test080.jpg,"The image depicts a scene on a highway where three cars are driving away from the camera. The car closest to us is black, followed by a white car and then another black car further down the road. All of them have their headlights on, indicating they might be moving at night or in low visibility conditions.
+
+The highway itself appears to be elevated with several street lights lining its sides, providing illumination for the vehicles. The sky above is overcast, suggesting it could be a cloudy day or evening.
+
+In the background, there's a bridge that adds an interesting architectural element to the scene. Beyond the bridge, you can see buildings which might indicate this highway is located near a populated area or city.
+
+The license plates on the cars are not clearly visible in the image, so it's impossible to provide any specific details about them. However, they add an authentic touch to the real-world setting of the scene.",test080,133.14285714285714
+test081.jpg,"The image depicts a vibrant street scene. The main focus is on two vehicles: a **green taxi** and a **black car**. The green taxi, which is driving towards us, has a yellow license plate that reads ""KY-12"". It's positioned in the foreground of the image, giving it prominence over other elements.
+
+In contrast, the black car is located further back on the road and appears to be moving away from us. Its dark color provides a nice contrast to the lighter colors of the taxi and the surrounding environment.
+
+The background of the image reveals an urban setting with trees providing some natural elements amidst the concrete structures. A signpost can also be seen, although its details are not clear.
+
+Overall, this image captures a typical moment in city life, with vehicles navigating their way through streets lined with both nature and architecture.",test081,121.28571428571429
+test082.jpg,"The image depicts a scene on a highway. The main focus is a white truck, which is driving away from us and has ""Kango Logistics"" written on its side. This truck is pulling a trailer that also reads ""Kango Logistics"". The license plate of the truck reads ""E 3258"".
+
+In addition to the Kango Logistics truck, there's another car visible in the image. This car has red taillights and is driving towards us on the same highway. It appears that both vehicles are moving at a similar speed, suggesting they might be part of the same convoy or group traveling together.
+
+The background of the image reveals a clear blue sky overhead and trees lining the sides of the road, indicating that this scene takes place in a suburban or rural area rather than an urban setting. The overall atmosphere suggests a typical day on the highway with vehicles going about their journeys.",test082,123.0
+test083.jpg,"The image captures a bustling street scene in Thailand, dominated by a vibrant restaurant named ""Ramada Hotel"". The restaurant's signboard, painted in striking red and white, stands out against the backdrop of other buildings. A large neon sign that reads ""Ramada Hotel"" illuminates the facade, inviting passersby to step inside.
+
+The entrance to the restaurant is sheltered by a metal awning, under which several motorbikes are parked, hinting at the popularity of this eatery among locals and visitors alike. The street itself is lined with other buildings, creating an urban landscape that adds depth to the scene.
+
+The image also contains some text in Thai script: ""รับสมัครงาน"", which translates to ""Now Hiring"". This suggests that the restaurant might be looking for new staff members at the time this photo was taken.
+
+Overall, this image paints a vivid picture of daily life in Thailand, showcasing not only its culinary delights but also its bustling streets and urban architecture.",test083,141.0
+test084.jpg,"The image depicts a scene on a highway. The main focus is a large billboard suspended over the road, displaying an advertisement for Mercedes-Benz cars. The billboard also features text that reads ""FREE SPEED"" and ""MERCEDES-BENZ"". 
+
+Below this billboard, two cars are driving on the highway. One car is white and the other is black. They appear to be moving at a moderate speed.
+
+To the right of the image, there's a clock displaying the time as ""12:30"". This could suggest it's either noon or midnight.
+
+In the background, you can see trees and buildings, indicating that this highway is located in an urban area with some greenery. The exact number of trees and buildings isn't clear from this perspective.
+
+Overall, the image captures a typical day on a busy highway with advertisements aimed at potential car buyers.",test084,116.57142857142857
+test085.jpg,"The image depicts a scene on a highway. There are three cars visible, each of different colors and models. The first car is white and appears to be a hatchback model. It's positioned towards the left side of the frame. The second car is black and seems to be an SUV model. This car is located in the middle of the image. The third car is brown, likely a pickup truck, and it's situated on the right side of the image.
+
+The highway itself has multiple lanes, with several street lights lining its sides. These lights are evenly spaced along the length of the road. In addition to these cars, there are orange traffic cones placed at various points along the highway, possibly indicating some form of road work or a temporary detour.
+
+In terms of text present in the image, there's an exit sign that reads ""Exit 12A"". This suggests that one of the exits on this highway is numbered 12A. There's also a green sign with white lettering that says ""Sukhothai"", which could be indicating the direction to Sukhothai, possibly another city or town along this highway.
+
+Overall, this image captures a typical day on a busy highway with multiple vehicles in transit and various road signs guiding drivers towards their destinations.",test085,173.85714285714286
+test086.jpg,"The image depicts a scene on a tree-lined street. The main focus of the image is a **white Toyota Camry** parked by the side of the road. The car has a distinctive license plate that reads ""**4 BA 12C**"". In addition to this, there's also another white car visible in the background, adding depth to the scene.
+
+The street itself is lined with trees, providing a natural canopy over the vehicles and enhancing the overall ambiance of the setting. The relative position of these objects suggests that the Toyota Camry is closer to the viewer than the other car.
+
+Please note that this description is based on the information available in the image and does not include any assumptions or interpretations beyond what can be confidently determined from the image itself.",test086,109.0
+test087.jpg,"The image captures a lively scene on a city street, where a group of motorcyclists are seen riding together. The riders, donned in helmets and protective gear, add an element of safety to their adventurous journey. Their bikes, painted in shades of black and silver, stand out against the backdrop of the cityscape.
+
+The street they traverse is lined with trees, providing a touch of nature amidst the urban setting. A large billboard looms in the background, adding to the visual interest of the scene. The perspective of the image suggests it was taken from behind one of the motorcyclists, giving us a first-person view of their ride.
+
+The license plate on one of the bikes reads ""YAMAHA"", hinting at the brand of the motorcycle. Another rider is seen wearing a helmet with a green logo, possibly indicating his team or sponsor. The image also contains some text that appears to be in Japanese and seems to be related to Yamaha as well.
+
+Overall, this image beautifully encapsulates a moment of camaraderie and adventure among motorcyclists on a city street.",test087,151.0
+test088.jpg,"The image depicts a scene on a road:
+- There are **three vehicles** visible: a **white van**, a **gray car**, and a **motorcycle**.
+- The white van is in the foreground of the image. It has an orange sign on its back that reads ""YALAKOM"". Additionally, there's another text on the side of the van that says ""Chennai 600 012"" and ""www.yalakom.com"".
+- The gray car is located in the background, following behind the white van.
+- A motorcycle can also be seen in the background, further down the road from the car.
+- All vehicles are on a road that has a grassy median in the middle and trees lining both sides of it.
+
+This description includes object types (vehicles), colors (white for the van, gray for the car), counts (three objects: one white van, one gray car, and one motorcycle), actions (driving), locations (on a road with grassy median and trees), and relative positions between objects.",test088,127.28571428571429
+test089.jpg,"The image captures a bustling scene on a road where three trucks are parked, each carrying different loads and painted in distinct colors. The first truck, closest to us, sports a white body contrasted by a red roof. It's followed by another truck that stands out with its blue body and matching blue tarp covering the back. The third truck, positioned further down the road, has a white body complemented by a black roof.
+
+The background of the image reveals trees lining the road, providing a natural canopy over the scene. A street lamp stands tall among them, ready to illuminate the area as dusk falls. The relative positions of these objects create an interesting composition that tells a story of everyday life and work.",test089,103.28571428571429
+test090.jpg,"The license plate of the truck is ""3214"".",test090,5.428571428571429
+test091.jpg,"The image depicts a scene on a road where three cars are driving away from the camera, and two trucks are also present. The first car is white and has a license plate that reads ""2417 KV"". It's followed by a blue car with a license plate that says ""36 0589"". The third car is gray and it's not clear what the license plate says.
+
+The two trucks are interesting as well. One is white and has a logo for ""Sapporo Beer"" on its side, while the other one is blue and bears the logo for ""Nissan"". 
+
+In addition to these vehicles, there's also a gray building visible in the background with some sort of equipment attached to it. The sky above is overcast, suggesting that it might have been raining recently or is about to rain soon.",test091,103.28571428571429
+test092.jpg,"The image captures a bustling scene on a highway, where multiple cars are seen driving in both directions. The vehicles vary in color and model, creating a dynamic tableau of urban life. A black SUV is prominently featured in the foreground, its license plate reading ""FJP M"". Further back, several other cars can be spotted, their details slightly obscured by distance.
+
+The highway itself is well-marked with signs and streetlights, guiding drivers along their journey. A green sign displaying ""Sri Lanka"" suggests the location of this busy thoroughfare. The sky overhead is overcast, casting a soft light over the scene. In the background, trees can be seen lining the road, adding a touch of nature to the urban landscape.
+
+The perspective of the image gives a sense of depth and movement, as if one could step into the frame and join the flow of traffic at any moment. It's a snapshot of everyday life on this highway in Sri Lanka.",test092,133.14285714285714
+test093.jpg,"The image captures a bustling night scene on a city street, dominated by two cars in motion. The car closest to us, a silver hatchback, bears a white license plate that reads ""P 2068 RJA"". It's followed closely by another vehicle, a gray van with a black roof and red taillights, adding to the dynamic energy of the scene.
+
+The street itself is lined with trees, their silhouettes standing out against the night sky. Buildings loom in the background, their windows glowing with light. A billboard advertising ""KFC"" stands tall among them, its bright colors contrasting with the darker surroundings.
+
+The perspective of the image is particularly striking - it's taken from behind one of the cars, giving us a driver's eye view of this vibrant city nightlife. The blur of motion suggests speed and urgency, as if we're caught in the midst of our own journey through this urban landscape.",test093,125.71428571428571
+test094.jpg,"The image captures a moment on a city street at night, where a white Toyota car is driving away from us. The car's taillights are glowing red, signaling its motion through the darkened streets. Above it, power lines crisscross against the backdrop of a cloudy sky, adding to the urban atmosphere.
+
+The street itself is lined with trees and buildings on both sides, their silhouettes standing out in the night. The car's license plate reads ""G 23928"", perhaps indicating its registration details or model year. Above it all, a sign that reads ""AJAY"" hangs prominently, though its context remains unclear from this perspective.
+
+The image is taken from behind the car, giving us a clear view of its rear end and license plate while also providing a glimpse into the surrounding cityscape. The overall scene paints a picture of urban life at night, with elements like the moving car, the static buildings, and the darkened sky all contributing to this narrative.",test094,136.28571428571428
+test095.jpg,"The image captures a bustling street scene under a clear blue sky. The road, marked by white lines and arrows, guides the viewer's eye through the composition. On either side of the road, buildings rise up, their facades painted in shades of beige and gray. 
+
+A variety of vehicles populate the scene - cars, trucks, and even a bus, all seemingly in motion. The trees lining the street add a touch of nature to the urban landscape. Above it all, a yellow traffic sign stands out against the blue sky, perhaps indicating some important instruction for drivers.
+
+The image is taken from a low angle, which gives an interesting perspective and makes the buildings appear taller than they might be in reality. This viewpoint also emphasizes the vehicles on the road and the height of the surrounding structures.
+
+Overall, this image paints a vivid picture of everyday life in a busy city.",test095,125.71428571428571
+test096.jpg,"The image depicts a bustling city street, teeming with life and activity. The road is filled with cars of various colors including silver, black, and white, all moving in harmony towards their destinations. Above them, the sky is painted in shades of blue, providing a serene backdrop to the urban landscape below.
+
+On either side of the street stand tall buildings, their windows reflecting the hustle and bustle of city life. They are interspersed with trees that add a touch of green to the concrete jungle. Lampposts line the road at regular intervals, standing like sentinels watching over the traffic.
+
+The perspective of the image is from ground level, giving us a view as if we were part of this vibrant scene. It's an everyday snapshot of city life - busy yet orderly, chaotic yet structured.",test096,113.85714285714286
+test097.jpg,The license plate of the car is not visible in the image.,test097,7.714285714285714
+test098.jpg,"The license plate of a black car parked on the side of a busy street reads ""B 1797 DAB"". The car is positioned behind another vehicle, which has its brake lights on. In the background, there's a sign for a restaurant and other cars can be seen driving by.",test098,35.857142857142854
+test099.jpg,"The image captures a moment on a bustling street, where three cars are parked neatly by the side of the road. The first car, closest to us, is white and bears the license plate ""H 1958 NY"". Just behind it, there's another car that shares the same color but has a different license plate - ""H 1960 NY"". Further back, the third car mirrors its companions with a white exterior and yet another distinctive license plate reading ""H 1962 NY"".
+
+The street itself is lined with trees, providing a touch of nature amidst the urban setting. Above them, power lines stretch across the sky, a common sight in many cities. In the distance, buildings rise up against the horizon, their details softened by perspective.
+
+Above it all, the sky stretches out in an expanse of blue, dotted here and there with clouds. It's a typical day on this street - cars parked, trees standing tall, and life going about its usual pace under the watchful eye of the sky.",test099,133.57142857142858
+test100.jpg,"The image captures a bustling city street at night, illuminated by the glow of numerous streetlights and car headlights. The perspective is from within one of the vehicles on the road, providing a first-person view of the scene. 
+
+In the foreground, two cars dominate the frame - a silver Toyota Camry parked on the side of the road and a black Honda Accord in motion. Their headlights pierce through the darkness, casting long shadows on the asphalt.
+
+Further down the road, several other vehicles can be seen, their taillights glowing like distant stars against the night sky. The street is lined with towering buildings that reach up into the dark expanse above, their windows twinkling in the artificial light.
+
+The overall mood of the image is one of movement and energy, a snapshot of life in a city that never sleeps.",test100,117.14285714285714
