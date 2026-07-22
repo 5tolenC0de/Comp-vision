@@ -15,3 +15,5 @@ Click on "Manage tokens"
 Generate an API token by clicking "Create new token"
 
 Load the model llava-phi-3-mini
+
+Put "Http://Localhost:1234/v1/chat/completion" and your Token at program
