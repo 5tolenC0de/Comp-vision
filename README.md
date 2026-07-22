@@ -1,6 +1,7 @@
 # AAS Comp-vision
 
 Download the dataset:https://www.kaggle.com/datasets/juanthomaswijaya/indonesian-license-plate-dataset
+
 Extract ONLY "Indonesian license plate recognition dataset"
 
 Install the LM STUDIO application (version 0.4.19)
