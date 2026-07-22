@@ -1,19 +1,14 @@
-# AAS Comp-vision
+# Deskripsi
 
-Download the dataset:https://www.kaggle.com/datasets/juanthomaswijaya/indonesian-license-plate-dataset
+Asesmen ini melakukan Optical Character recognition pada plat nomor kendaraan menggunakan 
+VLM (misalnya LLava Bakllava) dijalankan melalui LMSTUDIO dan diintegrasikan dengan python
+Output berupa file CSV berisi hasil prediksi dan evaluasi menggunakan metrik Character Error Rate (CER).
 
-Extract ONLY "Indonesian license plate recognition dataset"
+Dataset yang digunakan: Indonesian License Plate Recognition (folder test).
 
-Install the LM STUDIO application (version 0.4.19)
+1. Persiapan
+Unduh dataset dari Kaggle dan ekstrak ke folder dataset/test/.
 
-Download the multi-model named "llava-phi-3-mini"
+Install LMStudio dan jalankan model multimodal (contoh: llava, bakllava).
 
-Go to "server settings"
-
-Click on "Manage tokens"
-
-Generate an API token by clicking "Create new token"
-
-Load the model llava-phi-3-mini
-
-Put "Http://Localhost:1234/v1/chat/completion" and your Token at program
+Pastikan LMStudio API aktif di http://localhost:1234/v1/chat/completion.
